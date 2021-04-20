@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RobinSc006
+- 👀 I’m interested in fractals, anything low-level
+- 🌱 I’m currently learning(on my way to mastering) rust
+- 💞️ I’m open to collaborate on good ideas
+- 📫 How to reach me: robinschulz3000@gmail.com
